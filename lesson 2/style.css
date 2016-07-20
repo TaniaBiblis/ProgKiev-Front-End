@@ -1,0 +1,30 @@
+table {
+	width: 800px;
+	border: 2px solid  black;
+	border-collapse: collapse;
+}
+thead {
+	text-align: center;
+}
+
+td, th {
+	border: 1px solid grey;
+}
+
+body {
+	background-color: #FFFACD;
+}
+
+.view {
+	width: 220px;
+}
+	
+.tableh {
+	font-family: fantasy;
+	text-align: center;
+}
+
+.center {
+	text-align: center;
+	font-style: italic;
+}

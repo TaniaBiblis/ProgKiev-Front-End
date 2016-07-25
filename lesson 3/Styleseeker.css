@@ -1,0 +1,57 @@
+body {
+	background-color: #E2EEFE;
+}
+h1 {
+	font-family: serif;
+	font-size: 40pt;
+	letter-spacing: 2px;
+	color:  #214891;
+	margin-bottom: 3px; 
+	margin-top: 0px;
+}
+hr {
+	margin-top: 0px;
+}
+.date {
+	font-family: sans-serif;
+	font-weight: bold;
+	color: #A9A9A9;
+	margin-right: 20px;
+}
+.name {
+	text-transform: uppercase;
+	font-family: 'Oswald', sans-serif;
+	font-weight: bold;
+	color:  #358AD1;
+}
+h2 {
+	text-transform: uppercase;
+	font-family: sans-serif;
+	font-weight: bold;
+	color: #FF7F27;
+}
+.firstline {
+	font-family: sans-serif;
+	font-weight: bold;
+	color: #A9A9A9; }
+	p {
+		font-family: sans-serif;
+		line-height: 1.3;
+	}
+	.general {
+		margin-left: 15%;
+	}
+	.itext {
+		font-style: italic;
+	}
+	.btext {
+		font-weight: bold;
+	}
+	ul {
+		list-style-type: square;
+		color: #5995B5;
+		font-family: sans-serif;
+	}
+	li {
+		margin-bottom: 6px;
+	}
